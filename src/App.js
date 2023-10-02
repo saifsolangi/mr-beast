@@ -1,8 +1,8 @@
+import Home from "./home/Home";
+
 function App() {
   return (
-    <div className="font-bold">
-      hello
-    </div>
+    <Home />
   );
 }
 
