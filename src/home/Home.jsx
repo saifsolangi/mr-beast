@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import About from '../components/About'
 import Inspiring from '../components/Inspiring'
 import Features from '../components/Features'
+import Drooling from '../components/Drooling'
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <About />
             <Inspiring />
             <Features />
+            <Drooling />
         </div>
     )
 }
